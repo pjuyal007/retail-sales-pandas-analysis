@@ -36,7 +36,10 @@ This project performs data cleaning, transformation, and exploratory data analys
 - Some products generate losses despite high sales
 - Sales and profit are not always directly correlated
 - Certain customers show repeat purchase behavior
-
+## 💡 Business Impact
+- Helps identify high-value customers for targeted marketing
+- Enables decision-making on which product categories to focus on
+- Highlights loss-making products that require attention
 ## 📸 Visualizations
 
 ### Sales by Category
