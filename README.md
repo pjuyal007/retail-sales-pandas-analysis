@@ -40,12 +40,12 @@ This project performs data cleaning, transformation, and exploratory data analys
 ## 📸 Visualizations
 
 ### Sales by Category
-![Sales](outputs/sales_category.png)
+![Sales](outputs/total sales by category.png)
 
 ### Monthly Sales Trend
-![Trend](outputs/monthly_trend.png)
+![Trend](outputs/monthly sales trend.png)
 
 ### Profit by Category
-![Profit](outputs/profit_category.png)
+![Profit](outputs/profit by category.png)
 
 ## 📁 Project Structure
