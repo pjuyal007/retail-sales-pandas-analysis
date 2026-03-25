@@ -42,13 +42,13 @@ This project performs data cleaning, transformation, and exploratory data analys
 - Highlights loss-making products that require attention
 ## 📸 Visualizations
 
-### Sales by Category
+### 📊 Sales by Category
 ![Sales](outputs/sales_category.png)
 
-### Monthly Sales Trend
+### 📈 Monthly Sales Trend
 ![Trend](outputs/monthly_trend.png)
 
-### Profit by Category
+### 📊 Profit by Category
 ![Profit](outputs/profit_category.png)
 
 ## 📁 Project Structure
