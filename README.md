@@ -1,5 +1,7 @@
 # 📊 Retail Sales Analysis using Pandas
 
+## Objective
+To analyze retail sales data and extract insights related to customer behavior, product performance, and revenue trends.
 ## 📌 Overview
 This project performs data cleaning, transformation, and exploratory data analysis on a retail dataset using Pandas. The objective is to extract meaningful business insights related to sales, customers, and product performance.
 
